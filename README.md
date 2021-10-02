@@ -7,6 +7,6 @@ You must have Python 3.5 or above and a working PyTorch installation. It also re
 Running:
 
 ```bash
-\$ cd source
-\$ python3 aidsvm.py
+$ cd source
+$ python3 aidsvm.py
 ```
